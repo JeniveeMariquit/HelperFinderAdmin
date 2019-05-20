@@ -119,9 +119,6 @@
                                                     Fullname
                                                 </th>
                                                 <th>
-                                                    Password
-                                                </th>
-                                                <th>
                                                     Contact Number
                                                 </th>
                                                 
